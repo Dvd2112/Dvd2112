@@ -1,6 +1,6 @@
 ## Hi there, i'm David Junior👋
 
-- 🔭 I’m currently working on personal projects that use languages such as PHP, Java, and JavaScript.
+- 🔭 I’m currently working on personal projects that use languages such as PHP, Java, and Flutter.
 - 🌱 I study at UTFPR and currently study languages such as PHP, Java, and JavaScript.
 - 🖥️ I am a technician in Software Development and currently pursuing a bachelor's degree in Information Systems
 - ♟️ I am also a chess instructor.
