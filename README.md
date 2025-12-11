@@ -6,12 +6,6 @@
 - ♟️ I am also a chess instructor.
 
 ##
-<div>
-    <a href="https://github.com/Dvd2112">
-    <img height="180em" width="450em" src="https://github-readme-stats.vercel.app/api?username=Dvd2112&show_icons=true&bg_color=0d214f&theme=dark&icon_color=00b89f&card_width=100">
-    <img height="150em" width="450em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dvd2112&layout=compact&hide_progress=true&bg_color=0d214f&theme=dark&icon_color=00b89f&card_width=100">
-    </a>
-</div> 
 
 ##
 <div style="display: inline_block"><br>
